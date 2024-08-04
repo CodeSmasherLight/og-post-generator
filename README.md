@@ -20,5 +20,5 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-1. Clone the repository: [text](https://github.com/CodeSmasherLight/og-post-generator.git)
-2. Navigate to the project directory: [text](cd og-post-generator)
+1. Clone the repository: `https://github.com/CodeSmasherLight/og-post-generator.git`
+2. Navigate to the project directory: `cd og-post-generator`
